@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="title_activity_mostrar_de_otra_app">MostrarDeOtraApp</string>
+    <string name="title_activity_mostrar_de_otra_aplicacion">MostrarDeOtraAplicacion</string>
+</resources>
